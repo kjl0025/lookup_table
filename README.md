@@ -9,4 +9,6 @@ The script utilizes the module `emccd_detect`, which must be installed before us
  https://github.com/wfirst-cgi/emccd\_detect
 Simple installation instructions are included. 
 
-![image](https://github.com/kjl0025/lookup_table/assets/90057179/08614308-76fe-46d0-8703-17cb69e33cc4)
+# Authors:
+Kevin Ludwick
+Ashley Mazingo
