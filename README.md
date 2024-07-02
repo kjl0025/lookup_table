@@ -11,4 +11,5 @@ Simple installation instructions are included.
 
 # Authors:
 Kevin Ludwick
+
 Ashley Mazingo
